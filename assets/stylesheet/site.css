@@ -1,0 +1,11 @@
+.random-items {
+    list-style-type: none;
+}
+
+.jumbotron h1{
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.clear-fix {
+    clear: both;
+}
